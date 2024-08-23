@@ -1,0 +1,2 @@
+default_url = "https://api.mainnet-beta.solana.com"
+update_interval = 5
